@@ -19,8 +19,8 @@ python-multipart==0.0.5
 six==1.16.0
 sniffio==1.2.0
 starlette==0.17.1
-torch
-torchvision
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
 typing_extensions==4.1.1
 uvicorn==0.16.0
 wincertstore==0.2
