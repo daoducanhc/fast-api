@@ -37,5 +37,5 @@ olefile==0.46
 Pillow
 requests==2.18.4
 torch
-torchvision==0.8.1
+torchvision
 uvicorn==0.16.0
