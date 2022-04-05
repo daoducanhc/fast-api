@@ -18,7 +18,6 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 fastai==1.0.34
 fastapi==0.75.1
-fastprogress @ file:///home/jhoward/anaconda3/conda-bld/fastprogress_1597927594295/work
 filelock==3.4.1
 flake8==4.0.1
 flake8-import-order==0.18.1
@@ -26,30 +25,15 @@ Flask==1.1.2
 future==0.18.2
 gunicorn==20.1.0
 h11==0.13.0
-h5py @ file:///D:/bld/h5py_1595110344611/work
-hdf5storage @ file:///home/conda/feedstock_root/build_artifacts/hdf5storage_1613960907804/work
 idna==3.3
-imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 immutables==0.17
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
 imutils==0.5.3
 iniconfig==1.1.1
 iopath==0.1.9
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.17.0
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
 JSON-minify==0.3.0
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
-jupyter-core @ file:///C:/ci/jupyter_core_1612213536848/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
 keyboard==0.13.4
 lap==0.4.0
 llvmlite==0.34.0
@@ -61,58 +45,37 @@ mkl-random==1.0.1
 motmetrics==1.2.0
 msgpack==0.6.1
 msgpack-numpy==0.4.3.2
-mss @ file:///home/conda/feedstock_root/build_artifacts/python-mss_1593533581413/work
 mxnet==1.2.1
-nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
-nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
-nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
-networkx @ file:///tmp/build/80754af9/networkx_1617653298338/work
 numba==0.51.2
 numexpr==2.6.8
 numpy==1.19.5
 olefile==0.46
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
-packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
-parso @ file:///tmp/build/80754af9/parso_1607623074025/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow
 pluggy==1.0.0
 portalocker==2.4.0
 preshed==2.0.1
 progress==1.6
 progressbar2==3.50.1
-prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
 py==1.11.0
 py-cpuinfo==8.0.0
 pycocotools==2.0.4
 pycodestyle==2.8.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydantic==1.9.0
 pyflakes==2.4.0
-Pygments @ file:///tmp/build/80754af9/pygments_1613849567472/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyreadline==2.1
 pytest==7.0.1
 pytest-benchmark==3.4.1
 python-multipart==0.0.5
 python-utils==2.4.0
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
 pywin32==227
 pywinauto==0.6.8
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==20.0.0
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1612458529756/work
 QtPy==1.9.0
 regex==2018.8.29
 requests==2.18.4
-rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 scikit-image==0.16.2
-scikit-learn @ file:///C:/ci/scikit-learn_1598358870446/work
-scipy==1.1.0
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
 sniffio==1.2.0
 soupsieve==2.3.1
 spacy==2.0.16
@@ -121,19 +84,13 @@ tabulate==0.8.9
 TBB==0.1
 termcolor==1.1.0
 terminado==0.9.2
-testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
 thinc==6.12.0
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tomli==1.2.3
-toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
 torch==1.7.0
 torchvision==0.8.1
-tqdm @ file:///tmp/build/80754af9/tqdm_1611857934208/work
 traitlets==4.3.3
-typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 urllib3==1.22
 uvicorn==0.16.0
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
