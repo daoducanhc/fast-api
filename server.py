@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi import UploadFile, File
 import uvicorn
 from prediction import *
+import numpy
 
 # Declaring our FastAPI instance
 app = FastAPI()
@@ -10,6 +11,10 @@ app = FastAPI()
 @app.get('/hw')
 def hello_world():
     return "Hello World!"
+
+@app.get('/np')
+def numpy_version():
+    return f"{numpy.__version__}"
 
 @app.get('/hello')
 def hello(name:str):
