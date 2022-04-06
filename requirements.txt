@@ -13,7 +13,7 @@ h11==0.13.0
 idna==3.3
 immutables==0.17
 importlib-metadata==4.8.3
-numpy==1.19.5
+numpy
 Pillow==8.4.0
 pydantic==1.9.0
 python-multipart==0.0.5
